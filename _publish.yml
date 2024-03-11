@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 42ed59aa-5cea-4890-8491-a271b54e200e
+      url: 'https://muzhen-shen.netlify.app'
