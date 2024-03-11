@@ -1,5 +1,21 @@
 ---
 toc: false
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      url: "http://www.linkedin.com/in/muzhen-shen"
+    - icon: github
+      text: Github
+      url: "https://github.com/moojenss"
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:muzhen612@g.ucla.edu"
+    - icon: resume
+      text: resume
+      url: "https://drive.google.com/file/d/1txPMKqeOJTF66YMHuTzM024jxtG0vXaX/view?usp=sharing"
+image: pic.jpg
 ---
 
 ## Muzhen Shen
@@ -7,6 +23,25 @@ toc: false
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+### Personal Intro
+Hi! I am a fourth-year student majoring in Statistics and Data Science as well as Global Studies at UCLA. After my graduation in June 2024, I will pursue a master degree in Data Science. At the same time, I am open to intern and full-time job opportunities. I am especially interested in roles like data analyst and data scientist. I believe my knowledge in machine learning, predictive analysis, data mining, sentiment analysis, alongside my skill sets in R, SQL, and Python, would make me a competitive candidate for these positions. Feel free to contact me! 
+
+
+### Education
+*University of California, Los Angeles - Los Angeles, CA*
+
+B.S. in Statistics and Data Science, B.A. in Global Studies *Expected Jun 2024*
+
+Honor: Dean’s List for 5 quarters
+
+GPA : 3.78/4.0
+
+
+### Project
+You can find the link to my project [paper](https://drive.google.com/file/d/12l1C3da0Fy471ZcHKYpIXjHpA8Askayn/view?usp=sharing "paper") for data mining's application in alcoholic status prediction. 
+
+
 
 
 

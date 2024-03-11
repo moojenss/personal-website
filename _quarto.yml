@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Bio
+        text: Project Paper
 
 format:
   html:

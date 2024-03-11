@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-About this site
+About this site: I will list links to my past projects here
+
+1. [data_mining](https://drive.google.com/file/d/12l1C3da0Fy471ZcHKYpIXjHpA8Askayn/view?usp=sharing "data_mining"): An Exploratory Examination of Different Classification Models’ Performances at Predicting Alcoholic Status

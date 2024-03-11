@@ -4,20 +4,27 @@
     "href": "index.html",
     "title": "Muzhen Shen's personal webpage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nHi! I am a fourth-year student majoring in Statistics and Data Science as well as Global Studies at UCLA. After my graduation in June 2024, I will pursue a master degree in Data Science. At the same time, I am open to intern and full-time job opportunities. I am especially interested in roles like data analyst and data scientist. I believe my knowledge in machine learning, predictive analysis, data mining, sentiment analysis, alongside my skill sets in R, SQL, and Python, would make me a competitive candidate for these positions. Feel free to contact me!\n\n\n\nUniversity of California, Los Angeles - Los Angeles, CA\nB.S. in Statistics and Data Science, B.A. in Global Studies Expected Jun 2024\nHonor: Dean’s List for 5 quarters\nGPA : 3.78/4.0\n\n\n\nYou can find the link to my project paper for data mining’s application in alcoholic status prediction."
   },
   {
     "objectID": "index.html#muzhen-shen",
     "href": "index.html#muzhen-shen",
     "title": "Muzhen Shen's personal webpage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nHi! I am a fourth-year student majoring in Statistics and Data Science as well as Global Studies at UCLA. After my graduation in June 2024, I will pursue a master degree in Data Science. At the same time, I am open to intern and full-time job opportunities. I am especially interested in roles like data analyst and data scientist. I believe my knowledge in machine learning, predictive analysis, data mining, sentiment analysis, alongside my skill sets in R, SQL, and Python, would make me a competitive candidate for these positions. Feel free to contact me!\n\n\n\nUniversity of California, Los Angeles - Los Angeles, CA\nB.S. in Statistics and Data Science, B.A. in Global Studies Expected Jun 2024\nHonor: Dean’s List for 5 quarters\nGPA : 3.78/4.0\n\n\n\nYou can find the link to my project paper for data mining’s application in alcoholic status prediction."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "About this site: I will list links to my past projects here\n\ndata_mining: An Exploratory Examination of Different Classification Models’ Performances at Predicting Alcoholic Status"
+  },
+  {
+    "objectID": "index.html#personal-information",
+    "href": "index.html#personal-information",
+    "title": "Muzhen Shen's personal webpage",
+    "section": "Personal Information",
+    "text": "Personal Information\n\nPersonal Intro\nHi! I am a fourth-year student majoring in Statistics and Data Science as well as Global Studies at UCLA. After my graduation in June 2024, I will pursue a master degree in Data Science. At the same time, I am open to intern and full-time job opportunities. I am especially interested in roles like data analyst and data scientist.I believe my knowledge in machine learning, predictive analysis, data mining, sentiment analysis, alongside my skill sets in R, SQL, and Python, would make me a competitive candidate for these positions. Feel free to contact me!\n\n\nEducation\nUniversity of California, Los Angeles - Los Angeles, CA\nB.S. in Statistics and Data Science, B.A. in Global Studies - Expected Jun 2024\nHonor: Dean’s List for 5 quarters\nGPA : 3.78/4.0\n\n\nProject\nYou can find the link to my project paper"
   }
 ]
